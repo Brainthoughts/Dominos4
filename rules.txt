@@ -1,0 +1,15 @@
+                    ||| Please Don't Edit |||
+Objective:
+    There are two players who compete to remove all of their pieces by placing them next to similar ones
+    You can only place a piece that touches one or more of the same number but no others.
+The game ends if:
+    Neither player can place.
+    A player places all their pieces.
+Keybindings:
+    Space: skip turn
+    A and D: rotate piece or move in inventory
+    E: open inventory
+    R: brings up these rules
+    Left Click: place piece (must be in a valid location) or chose piece in inventory
+    Right Click or Escape: restart the game
+    W and S: flip piece
