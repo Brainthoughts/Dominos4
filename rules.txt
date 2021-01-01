@@ -1,4 +1,3 @@
-                    ||| Please Don't Edit |||
 Objective:
     There are two players who compete to remove all of their pieces by placing them next to similar ones
     You can only place a piece that touches one or more of the same number but no others.
